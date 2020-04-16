@@ -35,8 +35,7 @@ ctng_isl:
 ctng_libc:
   - gnu
 ctng_kernel:
-  - 2.6.32  # [linux32 or linux64]
-  - 3.10  # [ppc64le or aarch64]
+  - 3.10
 ctng_libiconv:
   - 1.15
 ctng_mpc:
@@ -46,8 +45,7 @@ ctng_nature:
 ctng_ncurses:
   - 6.1
 gnu:
-  - 2.17    # [ppc64le or aarch64]
-  - 2.12.2  # [linux32 or linux64]
+  - 2.17
 
 # openmp versions
 openmp_ver:
